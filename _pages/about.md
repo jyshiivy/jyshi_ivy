@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me - Jiayuan (Ivy) Shi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+ - /about/
+ - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a MEng student in Mechanical Engineering from UC Berkeley. I hold a B.A.S. in Mechanical Engineering from The University of British Columbia. During my undergraduate study, I designed, prototyped, and tested the drivetrain of a regenerative braking vehicle, the pressure system of a remote-controlled fireboat, and a mandible cutting guide. Also, I used simulation to enhance the performance of those projects. My pervious work experience includes managing draws and documents in The Robbins Company, developing manufacturing tools for brain stent in AccuMedical, and designing a blood separation device and a magnetic shielding containment in STEMCELL Technologies. Currently, I am working on my Capstone project, which is a MEMS device for the electroporation of cells.
 
 A data-driven personal website
 ======
