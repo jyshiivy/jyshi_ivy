@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 3"
+title: "Remote Controlled Fireboat"
 excerpt: "In a six-member team we designed and constructed a remote controlled model fireboat which equipped with propulsion system and pressure system for pumping water. <img src='/images/Fireboat.JPG'>"                                                                                                                                      
 collection: portfolio
 ---
