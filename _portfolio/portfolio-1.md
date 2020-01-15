@@ -4,7 +4,6 @@ excerpt: "In a four-member team, we designed and built an adjustable and reusabl
 
 collection: portfolio
 ---
-
 Workflow of the Device
 ------
 <img src='/images/Mandibleworkflow.jpg' width="750">
