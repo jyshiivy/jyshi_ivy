@@ -6,7 +6,7 @@ collection: portfolio
 
 Project Imagery 
 ------
-<img src='/images/CVSGR.jpg' height="300">
+<img src='/images/CVSGR.JPG' height="300">
 
 Project Description 
 ------
