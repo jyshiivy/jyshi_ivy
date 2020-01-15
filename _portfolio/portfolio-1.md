@@ -1,7 +1,7 @@
 ---
 title: "Mandible Cutting Guide"
 excerpt: "123"
-"profile.png"
+
 collection: portfolio
 ---
 
