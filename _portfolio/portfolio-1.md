@@ -5,7 +5,7 @@ excerpt: "123<img src='/images/Mandible.png'>"
 collection: portfolio
 ---
 
-======
+
 Project Description
 ------
 Patients with mandible cancer sometimes need to receive mandible reconstruction surgery (*Mandible is the lower jaw of a human). Before we conduct our project, the surgery is being performed using a 3D printed cutting guide. However, the lead time of modelling and printing is long which allows the aggressive tumor to grow. Also, after part of the mandible is resected, the two free mandible pieces can move freely relative to each other causing problems for the reconstruction later. Therefore, it is necessary to design an adjustable and reusable surgical tool that can guide the cuts and constrain the mandible pieces relative to each other as well as fit a wide patient population. 
