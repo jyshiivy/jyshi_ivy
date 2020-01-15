@@ -1,6 +1,6 @@
 ---
 title: "Mandible Cutting Guide"
-excerpt: "123 <br/><img src='/images/500x300.png'>"
+excerpt: "123<br/><img src='/images/500x300.png'>"
 
 collection: portfolio
 ---
