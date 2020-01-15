@@ -1,13 +1,13 @@
 ---
 title: "Mandible Cutting Guide"
-excerpt: "In a four-member team, we designed and built an adjustable and reusable mandible cutting guide for mandibular reconstruction surgery to replace custom 3D printed guides ([example](https://www.xilloc.com/products-and-services/surgical-guides/)) so that the lead time of the surgical planning can be reduced, and intra-operative surgeries can be performed.<img src='/images/Mandible.png'>"
+excerpt: "In a four-member team, we designed and built an adjustable and reusable mandible cutting guide for mandibular reconstruction surgery to replace custom 3D printed guides ([example](https://www.xilloc.com/products-and-services/surgical-guides/)) so that the lead time of the surgical planning can be reduced, and intra-operative surgeries can be performed.<img src='/images/Mandible.jpg'>"
 
 collection: portfolio
 ---
 
 Workflow of the Device
 ------
-<img src='/images/Mandibleworkflow.png'>
+<img src='/images/Mandibleworkflow.jpg' width="750">
 
 Project Description
 ------
