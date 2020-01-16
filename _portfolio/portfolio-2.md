@@ -4,6 +4,10 @@ excerpt: "In a team of five, we developed a creative idea of using a bi-stable t
 
 collection: portfolio
 ---
+| Start Date | End Date | Client/Supervisor | Location |
+|---|---|---|---|
+|  09/2019  |  12/2019  |  [Prof. Homayoon Kazerooni](https://me.berkeley.edu/people/homayoon-kazerooni/)  |  Berkeley, USA  |
+
 Project Imagery 
 ------
 <img src='/images/CVSGR.JPG' height="300">
@@ -16,6 +20,6 @@ In a team of five, we developed this creative idea of using a bi-stable tape spr
 
 My Main Contributions 
 ------
-•	Managed the team to meet milestones and ensured the quality of deliverables.                                                            
-•	Designed, 3D modelled, and tested different lever designs.                                                                               
-•	Built the final prototype with aesthetics in mind.
+-	Managed the team to meet milestones and ensured the quality of deliverables.                                                            
+-	Designed, 3D modelled, and tested different lever designs.                                                                               
+-	Built the final prototype with aesthetics in mind.
