@@ -13,7 +13,7 @@ Project Description
 
 Project Description
 ------
-The Goal of this project is to build a remote-controlled fireboat that delivers water to targets. The water is delivered by a pressurized 2L beverage bottle (*missing in the figures), partially filled with water, carried by the boat. My key contributions in this five people team are optimizing the pressure system to deliver as much water as possible, leading the team to meet milestones, and collaborating with other sub-teams to develop MATLAB simulations for performance prediction.
+The Goal of this project is to build a remote-controlled fireboat that delivers water to targets. The water is delivered by a pressurized 2L beverage bottle (not shown in the figures), partially filled with water, carried by the boat. My key contributions in this five people team are optimizing the pressure system to deliver as much water as possible, leading the team to meet milestones, and collaborating with other sub-teams to develop MATLAB simulations for performance prediction.
 
 My Main Contributions
 ------                   
