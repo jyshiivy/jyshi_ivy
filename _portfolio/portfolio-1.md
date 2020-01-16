@@ -21,7 +21,7 @@ In a four-member team, we designed and built an adjustable and reusable mandible
 
 My Main Contributions
 ------
-•	Designed joints, mounting plates, and rods to ensure adjustability and rigid fixation.                                                 
-• Connected and communicated with a professional engineer to get suggestions on design and manufacturability.                           
-•	Developed manufacturing drawings and fabricated the prototypes using 3D printers, a lathe, a milling machine, a waterjet, and a laser welder.                                                                                                                                 
-•	Communicated with the client weekly to determine the true needs and update the design progress.
+-	Designed joints, mounting plates, and rods to ensure adjustability and rigid fixation.                                                 
+- Connected and communicated with a professional engineer to get suggestions on design and manufacturability.                           
+-	Developed manufacturing drawings and fabricated the prototypes using 3D printers, a lathe, a milling machine, a waterjet, and a laser welder.                                                                                                                                 
+-	Communicated with the client weekly to determine the true needs and update the design progress.
