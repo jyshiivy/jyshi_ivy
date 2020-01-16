@@ -4,6 +4,9 @@ excerpt: "I worked in a six-member team to create a model vehicle with regenerat
 
 collection: portfolio
 ---
+| Start Date | End Date | Client/Supervisors | Location |
+|---|---|---|---|
+|  01/2016  |  03/2016  |  [UBC, Department of Mechanical Engineering](https://mech.ubc.ca/)  |  Vancouver, Canada  |
 
 Project Imagery
 ------
@@ -15,6 +18,6 @@ In a six-member team, we built a model vehicle with regenerative braking for bet
 
 My Main Contributions
 ------                              
-•	Proposed and validate the final selected disengaging mechanism.                                                                         
-•	Conducted simulations in MATLAB to optimize the system for better energy recovery and braking performance.                               
-•	Fabricated and tested a vehicle model with the regenerative braking system.                                                             
+-	Proposed and validate the final selected disengaging mechanism.                                                                         
+-	Conducted simulations in MATLAB to optimize the system for better energy recovery and braking performance.                               
+-	Fabricated and tested a vehicle model with the regenerative braking system.                                                             
