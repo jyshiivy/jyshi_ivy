@@ -1,6 +1,6 @@
 ---
 title: "Regenerative Braking Vehicle"
-excerpt: "I worked in a six-member team to create a model vehicle with regenerative braking for better energy efficiency. <br/><img src='/images/Regen.jpg'>"
+excerpt: "In a six-member team, we created a model vehicle with regenerative braking for better energy efficiency. <br/><img src='/images/Regen.jpg'>"
 
 collection: portfolio
 ---
