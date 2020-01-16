@@ -17,7 +17,7 @@ The Goal of this project is to build a remote-controlled fireboat that delivers 
 
 My Main Contributions
 ------                   
-•	Built a simulation model in MATLAB to optimize its propulsion system in terms of efficiency and speed.                                   
-•	Built a fluid dynamics model for its pressure system to pump water from a container and calculated the optimum air-water ratio to maximize water discharge.                                                                                                                 
-•	Calculated the dimension of the boat hull to ensure enough buoyancy force and structure strength using formulas from external research.   
-•	Tested the prototype in a pool and predicted the boat speed with a 94% accuracy in the final competition.                                
+-	Built a simulation model in MATLAB to optimize its propulsion system in terms of efficiency and speed.                                   
+-	Built a fluid dynamics model for its pressure system to pump water from a container and calculated the optimum air-water ratio to maximize water discharge.                                                                                                                 
+-	Calculated the dimension of the boat hull to ensure enough buoyancy force and structure strength using formulas from external research.   
+-	Tested the prototype in a pool and predicted the boat speed with a 94% accuracy in the final competition.                                
