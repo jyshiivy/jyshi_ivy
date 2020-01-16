@@ -24,7 +24,7 @@ My Main Contributions
 - Transferred client’s needs to design requirements through weekly meeting with the client.
 - Designed and conducted rapid prototyping and testing to ensure adjustability and rigid fixation.                                       
 - Outreached specialist in medical device design and gathered useful advices and manufacturing resource.
--	Developed manufacturing drawings and fabricated the prototypes using 3D printers, a lathe, a milling machine, a waterjet, and a laser welder.                                                                                                                                 
+-	Developed the 3D assembly and manufacturing drawings using SolidWorks, and fabricated the prototypes using 3D printers, a lathe, a milling machine, a waterjet, and a laser welder.                                                                                                                                 
 - Transferred client’s needs to design requirements through weekly meeting with the client.
 
 
