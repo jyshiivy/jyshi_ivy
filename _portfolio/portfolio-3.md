@@ -3,6 +3,10 @@ title: "Remote Controlled Fireboat"
 excerpt: "In a six-member team we designed and constructed a remote controlled model fireboat which equipped with propulsion system and pressure system for pumping water. <img src='/images/Fireboat.JPG'>"                                                                                                                                      
 collection: portfolio
 ---
+| Start Date | End Date | Client/Supervisors | Location |
+|---|---|---|---|
+|  03/2016  |  05/2016  |  [UBC, Department of Mechanical Engineering](https://mech.ubc.ca/)  |  Vancouver, Canada  |
+
 Project Description
 ------
 <img src='/images/FireboatL.JPG' Height="300">
