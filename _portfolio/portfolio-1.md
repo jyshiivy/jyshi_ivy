@@ -4,6 +4,10 @@ excerpt: "In a four-member team, we designed and built an adjustable and reusabl
 
 collection: portfolio
 ---
+| Start Date | End Date | Client | Supervisor | Location |
+|---|---|---|---|---|
+|  09/2018  |  04/2019  |  Dr. Eitan Prisman  |  Prof. Antony Hodgson  |  Vancouver, Canada  |
+
 Workflow of the Device
 ------
 <img src='/images/Mandibleworkflow.jpg' width="750">
