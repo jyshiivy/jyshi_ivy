@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiayuan (Ivy) Shi"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "About Me"
 description              : &description "Master of Engineering in Mechanical Engineering at UC Berkeley"
