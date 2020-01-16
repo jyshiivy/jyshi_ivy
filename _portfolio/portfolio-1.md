@@ -7,7 +7,7 @@ collection: portfolio
 
 | Start Date | End Date | Client | Supervisor | Location |
 |---|---|---|---|---|
-|  09/2018  |  04/2019  |  Dr. Eitan Prisman  |  Prof. Antony Hodgson  |  Vancouver, Canada  |
+|  09/2018  |  04/2019  |  [Dr. Eitan Prisman](https://surgery.med.ubc.ca/people/eprisman/)  |  [Prof. Antony Hodgson](https://mech.ubc.ca/antony-hodgson/)  |  Vancouver, Canada  |
 
 Workflow of the Device
 ------
